@@ -1,2 +1,2 @@
 kafka:
-  maxPollRecordsConfig :10
+  maxPollRecordsConfig :100
